@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "frayluisbeltran1.aternos.me:52553",
+    "ip": "frayluisbeltran1.aternos.me",
     "port": 52553,
     "version": "",
     "try-creative": false
